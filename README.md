@@ -12,8 +12,8 @@ Este projeto é uma **Pokédex**. A Pokédex permite que os usuários pesquisem 
 ---
 
 ## Funcionalidades
-- **Pesquisa por Nome ou ID**: Encontre Pokémon rapidamente inserindo o nome ou número da Pokédex.
-- **Detalhes do Pokémon**: Exibe informações como tipo, habilidades, peso, altura e stats.
+1. **Pesquisa por Nome ou ID**: Encontre Pokémon rapidamente inserindo o nome ou número da Pokédex.
+2. **Detalhes do Pokémon**: Exibe informações como tipo, habilidades, peso, altura e stats.
 
 ---
 
