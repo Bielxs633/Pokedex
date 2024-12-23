@@ -18,6 +18,6 @@ Este projeto é uma **Pokédex**. A Pokédex permite que os usuários pesquisem 
 ---
 
 ## Tecnologias utilizadas
-- **HTML** - Estrutura da página.
-- **CSS** - Estilização visual.
-- **JavaScript** - Lógica da aplicação e consumo da API.
+- **HTML**
+- **CSS**
+- **JavaScript**
