@@ -21,4 +21,5 @@ Este projeto é uma **Pokédex**. A Pokédex permite que os usuários pesquisem 
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Markdown**
 - **Git**
